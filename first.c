@@ -2,6 +2,7 @@
 #include<math.h>
 int main(){
   printf("\nHello shyam! welcome to programming\n");
+  return 0;
 }
 
 
@@ -22,10 +23,10 @@ int main(){
 
 
 
-[A[A[D[D[D[D[A[A[C[C[D
 
 
-return 0;
+
+
 
 
 
