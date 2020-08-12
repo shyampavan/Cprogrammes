@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
@@ -66,3 +67,6 @@ printf("\nname :%s %s\n" , shiva.firstname,shiva.lastname);
 printf("\nage :%d\n ",shiva.age);
 
 }
+=======
+i enjoy coding
+>>>>>>> v1
