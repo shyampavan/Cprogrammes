@@ -66,6 +66,7 @@ printf("\nname :%s %s\n" , shiva.firstname,shiva.lastname);
 
 printf("\nage :%d\n ",shiva.age);
 
+return0;
 }
 =======
 i enjoy coding
